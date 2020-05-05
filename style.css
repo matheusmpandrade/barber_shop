@@ -12,7 +12,11 @@ body {
 
 }
 
-h1 {
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.titulo-centralizado {
     text-align: center;
 }
 
@@ -38,10 +42,6 @@ em strong {
 
 .itens {
     font-style: italic;
-}
-
-h2 {
-    text-align: center;
 }
 
 ul {
